@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "abOVlpGGOO8HJH7f9hhjEZ18yX8VCkSz8g1dgmU+ze58FLGR97U0FzOXdixJ/r/ERHFhrcj/bRAg9/Tj/2wFDw==",
+  "success": true,
+  "projectFilePath": "/home/bluefasick/tet/NFTbot.csproj",
+  "expectedPackageFiles": [
+    "/home/bluefasick/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/bluefasick/.nuget/packages/npgsql/6.0.4/npgsql.6.0.4.nupkg.sha512",
+    "/home/bluefasick/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/bluefasick/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512",
+    "/home/bluefasick/.nuget/packages/telegram.bot/17.0.0/telegram.bot.17.0.0.nupkg.sha512",
+    "/home/bluefasick/.nuget/packages/telegram.bot.extensions.polling/1.0.2/telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
